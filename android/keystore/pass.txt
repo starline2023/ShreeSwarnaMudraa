@@ -1,0 +1,2 @@
+alias : mudraa
+pass: Starline@123

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1015052118398",
+    "project_id": "react-native-terminal-2026-4",
+    "storage_bucket": "react-native-terminal-2026-4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:3909ad79130ea58ba6eb2f",
+        "android_client_info": {
+          "package_name": "com.agarwalbullions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:8669a16d5b214ee2a6eb2f",
+        "android_client_info": {
+          "package_name": "com.dhanistharoyalebullion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:22f0ab4463d5e595a6eb2f",
+        "android_client_info": {
+          "package_name": "com.diyanabullionx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:8964e72aa73b838fa6eb2f",
+        "android_client_info": {
+          "package_name": "com.infinityspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:17c5b313d0db4b01a6eb2f",
+        "android_client_info": {
+          "package_name": "com.mudraa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:b696b1fa6895b9e0a6eb2f",
+        "android_client_info": {
+          "package_name": "com.rsspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015052118398:android:b643a152f71dd64aa6eb2f",
+        "android_client_info": {
+          "package_name": "com.sanjeevkrishnabullion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0wBk2RxjTGqz80DqhT8GqqF8On0mxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
